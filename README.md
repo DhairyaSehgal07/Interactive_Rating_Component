@@ -56,4 +56,4 @@ Since , i am a beginner, i got to learn Lifting state up in react from this proj
 ## Author
 
 - Website - [Dhairya Sehgal](https://dhairya-sehgal-portfolio.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@DhairyaSehgal07)
+- Frontend Mentor - [@DhairyaSehgal07](https://www.frontendmentor.io/profile/DhairyaSehgal07)
